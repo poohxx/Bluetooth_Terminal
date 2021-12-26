@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/TMP/Bluetooth_Terminal/app/src/main/res/layout/activity_control.xml" value="0.21739130434782608" />
         <entry key="..\:/TMP/Bluetooth_Terminal/app/src/main/res/layout/activity_main.xml" value="0.21739130434782608" />
         <entry key="..\:/TMP/Bluetooth_Terminal/app/src/main/res/layout/init_item.xml" value="0.21739130434782608" />
+        <entry key="..\:/TMP/Bluetooth_Terminal/app/src/main/res/layout/list_item.xml" value="0.21105072463768115" />
+        <entry key="..\:/TMP/Bluetooth_Terminal/app/src/main/res/menu/control_menu.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
